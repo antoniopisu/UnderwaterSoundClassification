@@ -9,6 +9,12 @@ Dataset3
 Dataset4
 Dataset5
 Preprocessing2.ipynb
-segmented_files.json
-spectrogram_files.json
-normalized_files.json
+data
+nogit/simple_audio.ipynb
+nogit/segmented_files.json
+nogit/spectrogram_files.json
+nogit/normalized_files.json
+distribuzioneClassi.ipynb
+nogit/resnet18.ipynb
+nogit/PreProBeN.ipynb
+nogit
