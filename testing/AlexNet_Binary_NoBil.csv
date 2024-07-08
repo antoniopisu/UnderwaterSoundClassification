@@ -1,0 +1,2 @@
+Test Loss,Test Accuracy,Test F1,Test Precision,Test Recall,Threshold,Threshold Precision,Threshold Recall,Threshold F1
+0.25833892612676695,"tensor(0.9582, dtype=torch.float64)",0.9566538589924375,0.958920166625916,0.9582334816843546,0.77508783,0.9613327848621966,0.9915146372507425,0.9761904761904763
